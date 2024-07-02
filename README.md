@@ -5,6 +5,7 @@
 ### 🧬 Code
 https://github.com/cubiq/ComfyUI_InstantID <br />
 https://github.com/cubiq/ComfyUI_IPAdapter_plus <br />
+https://github.com/lllyasviel/ControlNet <br />
 https://github.com/pythongosssss/ComfyUI-WD14-Tagger <br />
 https://github.com/yolain/ComfyUI-Easy-Use <br />
 https://github.com/WASasquatch/was-node-suite-comfyui <br />
